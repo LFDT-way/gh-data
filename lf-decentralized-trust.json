@@ -5455,6 +5455,15 @@
     },
     {
       "org": "trustoverip",
+      "name": "tswg-did-scid-method-spec",
+      "full_name": "trustoverip/tswg-did-scid-method-spec",
+      "url": "https://github.com/trustoverip/tswg-did-scid-method-spec",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "trustoverip",
       "name": "tswg-did-x509-method-specification",
       "full_name": "trustoverip/tswg-did-x509-method-specification",
       "url": "https://github.com/trustoverip/tswg-did-x509-method-specification",
