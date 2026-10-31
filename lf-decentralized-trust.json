@@ -57,6 +57,7 @@
     "OpenVTC",
     "PDP-Connect",
     "Sigvelis",
+    "thunder-id",
     "trustoverip"
   ],
   "repositories": [
@@ -4921,6 +4922,114 @@
       "name": "sigvelis",
       "full_name": "Sigvelis/sigvelis",
       "url": "https://github.com/Sigvelis/sigvelis",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": ".github",
+      "full_name": "thunder-id/.github",
+      "url": "https://github.com/thunder-id/.github",
+      "description": "Organization profile content for the ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "android-sdks",
+      "full_name": "thunder-id/android-sdks",
+      "url": "https://github.com/thunder-id/android-sdks",
+      "description": "Developer resources for building Android applications with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "community-dev",
+      "full_name": "thunder-id/community-dev",
+      "url": "https://github.com/thunder-id/community-dev",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "flutter-sdks",
+      "full_name": "thunder-id/flutter-sdks",
+      "url": "https://github.com/thunder-id/flutter-sdks",
+      "description": "Developer resources for building Flutter applications with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "governance",
+      "full_name": "thunder-id/governance",
+      "url": "https://github.com/thunder-id/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "ios-sdks",
+      "full_name": "thunder-id/ios-sdks",
+      "url": "https://github.com/thunder-id/ios-sdks",
+      "description": "Developer resources for building iOS applications with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "javascript-sdks",
+      "full_name": "thunder-id/javascript-sdks",
+      "url": "https://github.com/thunder-id/javascript-sdks",
+      "description": "Developer resources for building JavaScript-based applications with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "python-sdks",
+      "full_name": "thunder-id/python-sdks",
+      "url": "https://github.com/thunder-id/python-sdks",
+      "description": "Developer resources for building Python applications with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "samples",
+      "full_name": "thunder-id/samples",
+      "url": "https://github.com/thunder-id/samples",
+      "description": "Samples to help developers build with ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "skills",
+      "full_name": "thunder-id/skills",
+      "url": "https://github.com/thunder-id/skills",
+      "description": "Agent skills & plugins for developers using ThunderID",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "thunder-id",
+      "name": "thunderid",
+      "full_name": "thunder-id/thunderid",
+      "url": "https://github.com/thunder-id/thunderid",
+      "description": "ThunderID, an LF Decentralized Trust project, is a high-performance, open-source identity stack designed for developers to secure and manage access for humans, AI agents, and machines through fully composable identity flows.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
