@@ -36,6 +36,7 @@
     "LF-Decentralized-Trust-Mentorships",
     "lfdt-ap3",
     "LFDT-CLPR",
+    "LFDT-IBC",
     "LFDT-Iguazu",
     "LFDT-IPRAM",
     "LFDT-Lineth",
@@ -3735,6 +3736,7 @@
       "name": "iguazu-consensus",
       "full_name": "LFDT-Iguazu/iguazu-consensus",
       "url": "https://github.com/LFDT-Iguazu/iguazu-consensus",
+      "description": "Iguazu consensus library: DAG consensus, prevote, spine, block voting and fork choice",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3744,6 +3746,7 @@
       "name": "iguazu-coordinator",
       "full_name": "LFDT-Iguazu/iguazu-coordinator",
       "url": "https://github.com/LFDT-Iguazu/iguazu-coordinator",
+      "description": "Sidecar that drives DAG finalization between the Iguazu coordinator and execution layer",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3753,6 +3756,7 @@
       "name": "iguazu-engine",
       "full_name": "LFDT-Iguazu/iguazu-engine",
       "url": "https://github.com/LFDT-Iguazu/iguazu-engine",
+      "description": "Iguazu engine: DAG consensus loop and validator processing, hosting the execution layer as a plugin",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3762,6 +3766,7 @@
       "name": "iguazu-types",
       "full_name": "LFDT-Iguazu/iguazu-types",
       "url": "https://github.com/LFDT-Iguazu/iguazu-types",
+      "description": "Shared protocol types and interfaces for Iguazu components",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -4471,14 +4476,6 @@
     },
     {
       "org": "LFDT-way",
-      "name": "governance",
-      "full_name": "LFDT-way/governance",
-      "url": "https://github.com/LFDT-way/governance",
-      "visibility": "PUBLIC",
-      "archived": false
-    },
-    {
-      "org": "LFDT-way",
       "name": "labs-activity-reports",
       "full_name": "LFDT-way/labs-activity-reports",
       "url": "https://github.com/LFDT-way/labs-activity-reports",
@@ -4779,6 +4776,15 @@
       "full_name": "OpenVTC/verifiable-trust-infrastructure",
       "url": "https://github.com/OpenVTC/verifiable-trust-infrastructure",
       "description": "Verifiable Trust Infrastructure (VTI)",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "OpenVTC",
+      "name": "verifiable-trust-network",
+      "full_name": "OpenVTC/verifiable-trust-network",
+      "url": "https://github.com/OpenVTC/verifiable-trust-network",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
