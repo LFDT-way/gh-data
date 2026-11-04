@@ -3714,6 +3714,14 @@
       "default_branch": "main"
     },
     {
+      "org": "LFDT-IBC",
+      "name": ".github",
+      "full_name": "LFDT-IBC/.github",
+      "url": "https://github.com/LFDT-IBC/.github",
+      "visibility": "PUBLIC",
+      "archived": false
+    },
+    {
       "org": "LFDT-Iguazu",
       "name": ".github",
       "full_name": "LFDT-Iguazu/.github",
