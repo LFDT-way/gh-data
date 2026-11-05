@@ -645,15 +645,6 @@
     },
     {
       "org": "credebl",
-      "name": "terraform-scripts",
-      "full_name": "credebl/terraform-scripts",
-      "url": "https://github.com/credebl/terraform-scripts",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "feat/local-setup"
-    },
-    {
-      "org": "credebl",
       "name": "trust-registry",
       "full_name": "credebl/trust-registry",
       "url": "https://github.com/credebl/trust-registry",
@@ -3675,6 +3666,14 @@
     },
     {
       "org": "LFDT-CLPR",
+      "name": "clpr-e2e",
+      "full_name": "LFDT-CLPR/clpr-e2e",
+      "url": "https://github.com/LFDT-CLPR/clpr-e2e",
+      "visibility": "PUBLIC",
+      "archived": false
+    },
+    {
+      "org": "LFDT-CLPR",
       "name": "clpr-endpoint",
       "full_name": "LFDT-CLPR/clpr-endpoint",
       "url": "https://github.com/LFDT-CLPR/clpr-endpoint",
@@ -4119,7 +4118,7 @@
       "description": "Lattice zkVM (post-quantum zkVM)",
       "visibility": "PUBLIC",
       "archived": false,
-      "default_branch": "nico/f-prime-constraints-cuda-formal"
+      "default_branch": "main"
     },
     {
       "org": "LFDT-Nightstream",
