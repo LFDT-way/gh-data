@@ -3704,6 +3704,15 @@
     },
     {
       "org": "LFDT-CLPR",
+      "name": "clpr-website",
+      "full_name": "LFDT-CLPR/clpr-website",
+      "url": "https://github.com/LFDT-CLPR/clpr-website",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "LFDT-CLPR",
       "name": "governance",
       "full_name": "LFDT-CLPR/governance",
       "url": "https://github.com/LFDT-CLPR/governance",
@@ -3718,7 +3727,17 @@
       "full_name": "LFDT-IBC/.github",
       "url": "https://github.com/LFDT-IBC/.github",
       "visibility": "PUBLIC",
-      "archived": false
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "LFDT-IBC",
+      "name": "governance",
+      "full_name": "LFDT-IBC/governance",
+      "url": "https://github.com/LFDT-IBC/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
     },
     {
       "org": "LFDT-Iguazu",

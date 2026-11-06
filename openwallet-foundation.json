@@ -420,16 +420,6 @@
     },
     {
       "org": "openwallet-foundation",
-      "name": "sd-jwt-js",
-      "full_name": "openwallet-foundation/sd-jwt-js",
-      "url": "https://github.com/openwallet-foundation/sd-jwt-js",
-      "description": "A JavaScript implementation of the Selective Disclosure JWT (SD-JWT) spec.",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "openwallet-foundation",
       "name": "tac",
       "full_name": "openwallet-foundation/tac",
       "url": "https://github.com/openwallet-foundation/tac",
