@@ -6,8 +6,10 @@
     "besu-eth",
     "Blockchain-Decentralisation-Index",
     "Briolette",
+    "Circulattice",
     "Composable-Evidence-Criteria",
     "credebl",
+    "Digital-Credential-Frameworks",
     "EUDIPLO",
     "hiero-hackers",
     "hiero-ledger",
@@ -36,7 +38,7 @@
     "LF-Decentralized-Trust-Mentorships",
     "lfdt-ap3",
     "LFDT-CLPR",
-    "LFDT-IBC",
+    "lfdt-ibc",
     "LFDT-Iguazu",
     "LFDT-IPRAM",
     "LFDT-Lineth",
@@ -53,13 +55,15 @@
     "LFDT-Verii",
     "LFDT-way",
     "LFDT-web3j",
+    "OpenCrMS",
     "OpenReagent",
     "OpenTokenizedAssetStandard",
     "OpenVTC",
     "PDP-Connect",
     "Sigvelis",
     "thunder-id",
-    "trustoverip"
+    "trustoverip",
+    "vc-profile-validator"
   ],
   "repositories": [
     {
@@ -460,6 +464,24 @@
       "default_branch": "main"
     },
     {
+      "org": "Circulattice",
+      "name": ".github",
+      "full_name": "Circulattice/.github",
+      "url": "https://github.com/Circulattice/.github",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Circulattice",
+      "name": "governance",
+      "full_name": "Circulattice/governance",
+      "url": "https://github.com/Circulattice/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
       "org": "Composable-Evidence-Criteria",
       "name": ".github",
       "full_name": "Composable-Evidence-Criteria/.github",
@@ -679,6 +701,24 @@
       "full_name": "credebl/wiki",
       "url": "https://github.com/credebl/wiki",
       "description": "Wiki",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Digital-Credential-Frameworks",
+      "name": ".github",
+      "full_name": "Digital-Credential-Frameworks/.github",
+      "url": "https://github.com/Digital-Credential-Frameworks/.github",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Digital-Credential-Frameworks",
+      "name": "governance",
+      "full_name": "Digital-Credential-Frameworks/governance",
+      "url": "https://github.com/Digital-Credential-Frameworks/governance",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3722,19 +3762,49 @@
       "default_branch": "main"
     },
     {
-      "org": "LFDT-IBC",
+      "org": "lfdt-ibc",
       "name": ".github",
-      "full_name": "LFDT-IBC/.github",
-      "url": "https://github.com/LFDT-IBC/.github",
+      "full_name": "lfdt-ibc/.github",
+      "url": "https://github.com/lfdt-ibc/.github",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
     },
     {
-      "org": "LFDT-IBC",
+      "org": "lfdt-ibc",
       "name": "governance",
-      "full_name": "LFDT-IBC/governance",
-      "url": "https://github.com/LFDT-IBC/governance",
+      "full_name": "lfdt-ibc/governance",
+      "url": "https://github.com/lfdt-ibc/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "lfdt-ibc",
+      "name": "ibc",
+      "full_name": "lfdt-ibc/ibc",
+      "url": "https://github.com/lfdt-ibc/ibc",
+      "description": "The Inter-Blockchain Communication Protocol (IBC) is a neutral, open standard for secure cross-ledger interoperability",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "lfdt-ibc",
+      "name": "ibc-contracts",
+      "full_name": "lfdt-ibc/ibc-contracts",
+      "url": "https://github.com/lfdt-ibc/ibc-contracts",
+      "description": "This is a solidity implementation of IBC v2.",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "lfdt-ibc",
+      "name": "ibc-go",
+      "full_name": "lfdt-ibc/ibc-go",
+      "url": "https://github.com/lfdt-ibc/ibc-go",
+      "description": "Inter-Blockchain Communication Protocol (IBC) implementation in Golang.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -4661,6 +4731,33 @@
       "full_name": "LFDT-web3j/web3j-unit",
       "url": "https://github.com/LFDT-web3j/web3j-unit",
       "description": "Smart contract testing framework via integrated EVM and various Ethereum clients",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "OpenCrMS",
+      "name": ".github",
+      "full_name": "OpenCrMS/.github",
+      "url": "https://github.com/OpenCrMS/.github",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "OpenCrMS",
+      "name": "governance",
+      "full_name": "OpenCrMS/governance",
+      "url": "https://github.com/OpenCrMS/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "OpenCrMS",
+      "name": "OpenCrMS",
+      "full_name": "OpenCrMS/OpenCrMS",
+      "url": "https://github.com/OpenCrMS/OpenCrMS",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -5674,6 +5771,24 @@
       "name": "vLEI-EGF-4.0-Annual-Update-Public-Review",
       "full_name": "trustoverip/vLEI-EGF-4.0-Annual-Update-Public-Review",
       "url": "https://github.com/trustoverip/vLEI-EGF-4.0-Annual-Update-Public-Review",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "vc-profile-validator",
+      "name": ".github",
+      "full_name": "vc-profile-validator/.github",
+      "url": "https://github.com/vc-profile-validator/.github",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "vc-profile-validator",
+      "name": "governance",
+      "full_name": "vc-profile-validator/governance",
+      "url": "https://github.com/vc-profile-validator/governance",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"

@@ -458,15 +458,6 @@
     },
     {
       "org": "openwallet-foundation-labs",
-      "name": "apostille",
-      "full_name": "openwallet-foundation-labs/apostille",
-      "url": "https://github.com/openwallet-foundation-labs/apostille",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "openwallet-foundation-labs",
       "name": "axle",
       "full_name": "openwallet-foundation-labs/axle",
       "url": "https://github.com/openwallet-foundation-labs/axle",
