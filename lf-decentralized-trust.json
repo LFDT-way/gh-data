@@ -9,7 +9,8 @@
     "Circulattice",
     "Composable-Evidence-Criteria",
     "credebl",
-    "Digital-Credential-Frameworks",
+    "DAS-Interoperability",
+    "digital-credential-frameworks",
     "EUDIPLO",
     "hiero-hackers",
     "hiero-ledger",
@@ -529,15 +530,6 @@
     },
     {
       "org": "credebl",
-      "name": "aries-akrida",
-      "full_name": "credebl/aries-akrida",
-      "url": "https://github.com/credebl/aries-akrida",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "credebl",
       "name": "C4GT",
       "full_name": "credebl/C4GT",
       "url": "https://github.com/credebl/C4GT",
@@ -706,19 +698,44 @@
       "default_branch": "main"
     },
     {
-      "org": "Digital-Credential-Frameworks",
+      "org": "DAS-Interoperability",
       "name": ".github",
-      "full_name": "Digital-Credential-Frameworks/.github",
-      "url": "https://github.com/Digital-Credential-Frameworks/.github",
+      "full_name": "DAS-Interoperability/.github",
+      "url": "https://github.com/DAS-Interoperability/.github",
+      "visibility": "PUBLIC",
+      "archived": false
+    },
+    {
+      "org": "DAS-Interoperability",
+      "name": "DAS-Interoperability",
+      "full_name": "DAS-Interoperability/DAS-Interoperability",
+      "url": "https://github.com/DAS-Interoperability/DAS-Interoperability",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
     },
     {
-      "org": "Digital-Credential-Frameworks",
+      "org": "DAS-Interoperability",
       "name": "governance",
-      "full_name": "Digital-Credential-Frameworks/governance",
-      "url": "https://github.com/Digital-Credential-Frameworks/governance",
+      "full_name": "DAS-Interoperability/governance",
+      "url": "https://github.com/DAS-Interoperability/governance",
+      "visibility": "PUBLIC",
+      "archived": false
+    },
+    {
+      "org": "digital-credential-frameworks",
+      "name": ".github",
+      "full_name": "digital-credential-frameworks/.github",
+      "url": "https://github.com/digital-credential-frameworks/.github",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "digital-credential-frameworks",
+      "name": "governance",
+      "full_name": "digital-credential-frameworks/governance",
+      "url": "https://github.com/digital-credential-frameworks/governance",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -756,16 +773,6 @@
       "name": ".github",
       "full_name": "hiero-hackers/.github",
       "url": "https://github.com/hiero-hackers/.github",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hiero-hackers",
-      "name": "agentic-support-hiero",
-      "full_name": "hiero-hackers/agentic-support-hiero",
-      "url": "https://github.com/hiero-hackers/agentic-support-hiero",
-      "description": "A Claude Plugin that focuses on Hiero",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -1072,6 +1079,16 @@
       "full_name": "hiero-ledger/hiero",
       "url": "https://github.com/hiero-ledger/hiero",
       "description": "This repository contains all non-technical documents and definitions for Hiero. It is a good entrypoint to the project.",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "hiero-ledger",
+      "name": "hiero-agentic-support",
+      "full_name": "hiero-ledger/hiero-agentic-support",
+      "url": "https://github.com/hiero-ledger/hiero-agentic-support",
+      "description": "A Claude Plugin that focuses on Hiero",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -5792,6 +5809,16 @@
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
+    },
+    {
+      "org": "vc-profile-validator",
+      "name": "vc-profile-validator",
+      "full_name": "vc-profile-validator/vc-profile-validator",
+      "url": "https://github.com/vc-profile-validator/vc-profile-validator",
+      "description": "Profile‑driven validator for JWT VCs/VPs with explainable JSON+HTML reports, CLI, and CI‑ready output (GitHub Actions/Jenkins), aligned with OWF fixtures.",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "master"
     }
   ]
 }
