@@ -6,6 +6,7 @@
     "besu-eth",
     "Blockchain-Decentralisation-Index",
     "Briolette",
+    "Chaguar",
     "Circulattice",
     "Composable-Evidence-Criteria",
     "credebl",
@@ -460,6 +461,23 @@
       "name": "governance",
       "full_name": "Briolette/governance",
       "url": "https://github.com/Briolette/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": ".github",
+      "full_name": "Chaguar/.github",
+      "url": "https://github.com/Chaguar/.github",
+      "visibility": "PUBLIC",
+      "archived": false
+    },
+    {
+      "org": "Chaguar",
+      "name": "tsc",
+      "full_name": "Chaguar/tsc",
+      "url": "https://github.com/Chaguar/tsc",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
