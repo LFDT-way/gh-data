@@ -57,6 +57,7 @@
     "LFDT-Verii",
     "LFDT-way",
     "LFDT-web3j",
+    "multipaz",
     "OpenCrMS",
     "OpenReagent",
     "OpenTokenizedAssetStandard",
@@ -471,7 +472,89 @@
       "full_name": "Chaguar/.github",
       "url": "https://github.com/Chaguar/.github",
       "visibility": "PUBLIC",
-      "archived": false
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "chaguar",
+      "full_name": "Chaguar/chaguar",
+      "url": "https://github.com/Chaguar/chaguar",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "committer",
+      "full_name": "Chaguar/committer",
+      "url": "https://github.com/Chaguar/committer",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "common",
+      "full_name": "Chaguar/common",
+      "url": "https://github.com/Chaguar/common",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "endorser",
+      "full_name": "Chaguar/endorser",
+      "url": "https://github.com/Chaguar/endorser",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "evm",
+      "full_name": "Chaguar/evm",
+      "url": "https://github.com/Chaguar/evm",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "orderer",
+      "full_name": "Chaguar/orderer",
+      "url": "https://github.com/Chaguar/orderer",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "rfcs",
+      "full_name": "Chaguar/rfcs",
+      "url": "https://github.com/Chaguar/rfcs",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "samples",
+      "full_name": "Chaguar/samples",
+      "url": "https://github.com/Chaguar/samples",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "sdk",
+      "full_name": "Chaguar/sdk",
+      "url": "https://github.com/Chaguar/sdk",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
     },
     {
       "org": "Chaguar",
@@ -1728,91 +1811,10 @@
     },
     {
       "org": "hyperledger",
-      "name": "fabric-x",
-      "full_name": "hyperledger/fabric-x",
-      "url": "https://github.com/hyperledger/fabric-x",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-committer",
-      "full_name": "hyperledger/fabric-x-committer",
-      "url": "https://github.com/hyperledger/fabric-x-committer",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-common",
-      "full_name": "hyperledger/fabric-x-common",
-      "url": "https://github.com/hyperledger/fabric-x-common",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-endorser",
-      "full_name": "hyperledger/fabric-x-endorser",
-      "url": "https://github.com/hyperledger/fabric-x-endorser",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-evm",
-      "full_name": "hyperledger/fabric-x-evm",
-      "url": "https://github.com/hyperledger/fabric-x-evm",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
       "name": "fabric-x-migrate",
       "full_name": "hyperledger/fabric-x-migrate",
       "url": "https://github.com/hyperledger/fabric-x-migrate",
       "description": "CLI to migrate from Fabric to Fabric-X",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-orderer",
-      "full_name": "hyperledger/fabric-x-orderer",
-      "url": "https://github.com/hyperledger/fabric-x-orderer",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-rfcs",
-      "full_name": "hyperledger/fabric-x-rfcs",
-      "url": "https://github.com/hyperledger/fabric-x-rfcs",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-samples",
-      "full_name": "hyperledger/fabric-x-samples",
-      "url": "https://github.com/hyperledger/fabric-x-samples",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "hyperledger",
-      "name": "fabric-x-sdk",
-      "full_name": "hyperledger/fabric-x-sdk",
-      "url": "https://github.com/hyperledger/fabric-x-sdk",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"

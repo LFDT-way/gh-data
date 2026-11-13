@@ -1,7 +1,6 @@
 {
   "organizations": [
     "KapunSDK",
-    "LFDT-Lineth",
     "openwallet-forum",
     "openwallet-foundation",
     "openwallet-foundation-labs",
@@ -31,46 +30,6 @@
       "name": "tsc",
       "full_name": "KapunSDK/tsc",
       "url": "https://github.com/KapunSDK/tsc",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LFDT-Lineth",
-      "name": ".github",
-      "full_name": "LFDT-Lineth/.github",
-      "url": "https://github.com/LFDT-Lineth/.github",
-      "description": "Organization-wide GitHub configuration, profile content, templates, and community health files for Lineth.",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LFDT-Lineth",
-      "name": "governance",
-      "full_name": "LFDT-Lineth/governance",
-      "url": "https://github.com/LFDT-Lineth/governance",
-      "description": "Governance configuration for the LFDT-Lineth GitHub organization.",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LFDT-Lineth",
-      "name": "lineth-monorepo",
-      "full_name": "LFDT-Lineth/lineth-monorepo",
-      "url": "https://github.com/LFDT-Lineth/lineth-monorepo",
-      "description": "The principal Lineth repository. Lineth is an enterprise-grade EVM layer 2 framework for developing public, permissioned or private networks. Its modular and versatile design satisfies a broad range of industry use cases.",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LFDT-Lineth",
-      "name": "zkc",
-      "full_name": "LFDT-Lineth/zkc",
-      "url": "https://github.com/LFDT-Lineth/zkc",
-      "description": "A port of the Corset tool into Go",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
