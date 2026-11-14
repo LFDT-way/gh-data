@@ -480,6 +480,7 @@
       "name": "chaguar",
       "full_name": "Chaguar/chaguar",
       "url": "https://github.com/Chaguar/chaguar",
+      "description": "LFDT Chaguar: a permissioned ledger built for performance at scale.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -543,6 +544,7 @@
       "name": "samples",
       "full_name": "Chaguar/samples",
       "url": "https://github.com/Chaguar/samples",
+      "description": "Samples for LFDT Chaguar",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -2928,7 +2930,7 @@
       "name": "fabric-smart-client",
       "full_name": "hyperledger-labs/fabric-smart-client",
       "url": "https://github.com/hyperledger-labs/fabric-smart-client",
-      "description": "The Fabric Smart Client is a framework that lets you focus on the business processes and simplifies the development of Fabric(x)-based distributed application.",
+      "description": "A framework for building distributed applications on Hyperledger Fabric and Chaguar, so you can focus on business processes instead of blockchain plumbing.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -4337,7 +4339,7 @@
       "name": "panurus",
       "full_name": "LFDT-Panurus/panurus",
       "url": "https://github.com/LFDT-Panurus/panurus",
-      "description": "Panurs provides a collection of APIs and services that streamline development for token-based distributed applications.",
+      "description": "Panurus provides a collection of APIs and services that streamline development for token-based distributed applications.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
