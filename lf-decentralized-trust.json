@@ -487,6 +487,16 @@
     },
     {
       "org": "Chaguar",
+      "name": "chaguar-ansible-collection",
+      "full_name": "Chaguar/chaguar-ansible-collection",
+      "url": "https://github.com/Chaguar/chaguar-ansible-collection",
+      "description": "Ansible collection for build and run Fabric-X networks.",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
       "name": "committer",
       "full_name": "Chaguar/committer",
       "url": "https://github.com/Chaguar/committer",
@@ -867,6 +877,26 @@
       "name": "governance",
       "full_name": "EUDIPLO/governance",
       "url": "https://github.com/EUDIPLO/governance",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "EUDIPLO",
+      "name": "wallet-qa",
+      "full_name": "EUDIPLO/wallet-qa",
+      "url": "https://github.com/EUDIPLO/wallet-qa",
+      "description": "Manual test bench for EUDI wallets: pick a test, run it with a real wallet against EUDIPLO, get a verdict.",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "EUDIPLO",
+      "name": "website",
+      "full_name": "EUDIPLO/website",
+      "url": "https://github.com/EUDIPLO/website",
+      "description": "eudiplo.dev: landing page, CLI installer and published configuration schemas of EUDIPLO",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3473,16 +3503,6 @@
       "full_name": "LF-Decentralized-Trust-labs/fabric-sdk-rust",
       "url": "https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust",
       "description": "Interact and program chaincode for the Hyperledger Fabric blockchain network",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LF-Decentralized-Trust-labs",
-      "name": "fabric-x-ansible-collection",
-      "full_name": "LF-Decentralized-Trust-labs/fabric-x-ansible-collection",
-      "url": "https://github.com/LF-Decentralized-Trust-labs/fabric-x-ansible-collection",
-      "description": "Ansible collection for build and run Fabric-X networks.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
