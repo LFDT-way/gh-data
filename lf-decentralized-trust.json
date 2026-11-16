@@ -477,20 +477,29 @@
     },
     {
       "org": "Chaguar",
-      "name": "chaguar",
-      "full_name": "Chaguar/chaguar",
-      "url": "https://github.com/Chaguar/chaguar",
-      "description": "LFDT Chaguar: a permissioned ledger built for performance at scale.",
+      "name": "ansible-collection",
+      "full_name": "Chaguar/ansible-collection",
+      "url": "https://github.com/Chaguar/ansible-collection",
+      "description": "Ansible collection for build and run Fabric-X networks.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
     },
     {
       "org": "Chaguar",
-      "name": "chaguar-ansible-collection",
-      "full_name": "Chaguar/chaguar-ansible-collection",
-      "url": "https://github.com/Chaguar/chaguar-ansible-collection",
-      "description": "Ansible collection for build and run Fabric-X networks.",
+      "name": "block-explorer",
+      "full_name": "Chaguar/block-explorer",
+      "url": "https://github.com/Chaguar/block-explorer",
+      "visibility": "PUBLIC",
+      "archived": false,
+      "default_branch": "main"
+    },
+    {
+      "org": "Chaguar",
+      "name": "chaguar",
+      "full_name": "Chaguar/chaguar",
+      "url": "https://github.com/Chaguar/chaguar",
+      "description": "LFDT Chaguar: a permissioned ledger built for performance at scale.",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
@@ -3503,15 +3512,6 @@
       "full_name": "LF-Decentralized-Trust-labs/fabric-sdk-rust",
       "url": "https://github.com/LF-Decentralized-Trust-labs/fabric-sdk-rust",
       "description": "Interact and program chaincode for the Hyperledger Fabric blockchain network",
-      "visibility": "PUBLIC",
-      "archived": false,
-      "default_branch": "main"
-    },
-    {
-      "org": "LF-Decentralized-Trust-labs",
-      "name": "fabric-x-block-explorer",
-      "full_name": "LF-Decentralized-Trust-labs/fabric-x-block-explorer",
-      "url": "https://github.com/LF-Decentralized-Trust-labs/fabric-x-block-explorer",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
