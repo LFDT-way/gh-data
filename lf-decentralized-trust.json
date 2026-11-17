@@ -4396,6 +4396,7 @@
       "name": "permissioned-privacy-control",
       "full_name": "LFDT-Permissioned-Privacy-Control/permissioned-privacy-control",
       "url": "https://github.com/LFDT-Permissioned-Privacy-Control/permissioned-privacy-control",
+      "description": "Privacy and access-control layer for permissioned EVM networks. An LF Decentralized Trust lab",
       "visibility": "PUBLIC",
       "archived": false,
       "default_branch": "main"
